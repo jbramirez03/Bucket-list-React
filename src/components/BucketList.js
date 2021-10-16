@@ -19,7 +19,10 @@ function BucketList() {
     let updatedBucket = bucket.map((item) => {
 
       // TODO: Write logic that marks an item as complete or incomplete when invoked
-      item.id === id ? item.isComplete = true : item.isComplete = false
+      if (item.id === id) {
+        item.isComplete = !item.isComplete
+      }
+      return item;
     });
 
     setBucket(updatedBucket);
