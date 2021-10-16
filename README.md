@@ -29,6 +29,8 @@ Once the item is added to the list you can go back and edit by clicking the edit
 
 ## Functionality
 
+![Bucket List](https://user-images.githubusercontent.com/82244776/137604312-083bd640-98d0-48ed-82a1-316d6146bf93.gif)
+
 ## Credits
 
 Jason Barrera-Ramirez<br><br>
